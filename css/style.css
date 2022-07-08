@@ -149,13 +149,15 @@ input {
 .levels,
 .frame,
 .wires,
-.conclusion {
+.conclusion,
+.vitaya {
     display: flex;
     flex-direction: column;
     padding: 70px;
 }
 
-.frame {
+.frame,
+.vitaya {
     padding: 0;
 }
 
